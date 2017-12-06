@@ -1,5 +1,15 @@
 % Akash Mitra
 % am132
+%GB comments
+1a 100
+1b 100
+1c 100
+1d 80 no axis labels.  You are not wrong with what you have written, but mentioning how the stable states evolve over the range of ‘a’ would have been a more complete answer. 
+2a 100
+2b 100
+2c 100
+overall 97
+
 
 %HW7
 
